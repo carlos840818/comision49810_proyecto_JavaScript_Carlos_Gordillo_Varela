@@ -10,3 +10,6 @@
 - Uso de operadores "==", "&&", "||" etc
 - Uso de ciclos "for", "break", "while", "switch"
 - Funciones flecha
+
+## ¿En que consiste el proyecto?
+- El proyecto es un carrito de compras para dar continuación al proyecto de desarrollo web, en el cual se pueden comprar 4 productos y al final genera el valor total de la compra tanto en consola como por alert. 
